@@ -38,4 +38,4 @@ management:
 
 # server
 
-<img src="https://user-images.githubusercontent.com/33627638/209654813-97804b18-d3b1-455e-a741-7b20c3f2d0a8.png" width="300">
+<img src="https://user-images.githubusercontent.com/33627638/209654813-97804b18-d3b1-455e-a741-7b20c3f2d0a8.png" width="600">
