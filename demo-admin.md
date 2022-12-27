@@ -1,6 +1,6 @@
 # Client 
 ## application.yml
-```yaml
+```yml
 server:
   port: 8080
   servlet:
