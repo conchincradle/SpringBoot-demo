@@ -34,3 +34,8 @@ management:
         # 设置端点暴露的哪些内容，默认["health","info"]，设置"*"代表暴露所有可访问的端点
         include: "*"
 ```
+### 登录然后显示client的Index页面
+
+# server
+
+<img src="https://user-images.githubusercontent.com/33627638/209654813-97804b18-d3b1-455e-a741-7b20c3f2d0a8.png" width="300">
